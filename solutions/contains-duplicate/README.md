@@ -44,3 +44,7 @@ All elements are distinct.
 
 - `-109 <= nums[i] <= 109`
 
+
+
+
+**Logic**:The solution uses set so it doesn't allow for a duplicate so it's going on it's comparing n finding it solution
